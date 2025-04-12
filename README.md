@@ -43,7 +43,8 @@ timeDurationArg
   ;
 to run 
 mvn clean compile
-![image](https://github.com/user-attachments/assets/4a6cf6fa-346b-4796-9c06-94fd15d81fad)
+![Screenshot 2025-04-11 201359](https://github.com/user-attachments/assets/cba1c526-612d-4a9a-a0df-261560a58da8)
+
 ## 📍 API Updates (wrangler-api module)
 
 #### 🎯 Objective:
